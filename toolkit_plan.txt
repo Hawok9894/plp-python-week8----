@@ -1,0 +1,23 @@
+PERSONAL MINI-TOOLKIT - PLAN
+
+My Toolkit Tools:
+1. To-Do List - User can add tasks, view tasks, and remove tasks.
+2. Simple Calculator - User enters two numbers and an operation to get a result.
+3. Number Guessing Game - Program picks a random number and user guesses until correct.
+4. Name Formatter - User enters their name and program shows it in different formats.
+
+Exact Menu Text:
+Welcome to My Personal Mini-Toolkit!
+1. To-Do List
+2. Simple Calculator
+3. Number Guessing Game
+4. Name Formatter
+5. Quit
+Enter your choice (1-5):
+
+Concepts Used:
+- To-Do List: list (stores tasks), loop (menu inside tool), conditional (check if list empty, check task exists)
+- Simple Calculator: conditional (if/elif for + - * /), f-string (show result), loop (menu loop)
+- Number Guessing Game: loop (while guessing), conditional (too high / too low / correct), f-string
+- Name Formatter: f-string, conditional (check if name empty)
+- Main Menu: while loop, if/elif/else for routing choices
